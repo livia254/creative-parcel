@@ -1,0 +1,15 @@
+工具：内置 ImageGen（非 CLI）。生成素材已保存到 assets。
+
+box-empty.png 提示词：
+Edit target: this top-down open cardboard box. Remove ONLY the five large objects inside: CD player, camera with beads, headphones/player with wire, crayons, silver photo packet. Reconstruct the pastel floral/cloud pink patterned liner underneath. Keep exact box perspective, dimensions, flaps, stickers, shadows, position and framing unchanged. Keep small liner stickers and loose tulip photo at upper right. Transparent background outside box. Output clean empty box background for layering original objects over it in a website.
+
+float-bg.png 提示词：
+Remove the entire foreground robot, megaphone, gift, coins, golden flying ring and wings. Reconstruct ONLY the background as if this character was never there: winding turquoise river, green grass banks, pastel toy buildings on right, blue sky and soft clouds. Preserve composition, framing and edge colors to seamlessly fit back into same rectangular crop in original artwork. No character, no text, no new objects. Clean background plate.
+
+run-bg.png 提示词：
+Remove ONLY the large foreground running white robot and ALL carried gifts, backpack and yellow swoosh. Fill with matching pale mint-white background. Preserve exactly the top partial cards and bottom curved cyan border with blue collage below; reconstruct little border portion previously hidden by its feet. No character. Keep identical crop/composition. Background plate for layering original character back.
+
+floater-clean.png 提示词：
+Clean transparent cutout only. Preserve exact original robot, facial features, blue/yellow megaphone, coin gift and golden flying ring with translucent wings. Remove stray opaque white area on far right and bottom right and all residual background outside subject. Truly transparent background. Do not redesign character or pose. Tight composition including whole megaphone and both wings.
+
+run13-bg.png：内置 ImageGen 背景补全。提示词：Remove ONLY the large foreground white running robot, its backpack, carried gift box with all items, and yellow ribbon swoosh. Reconstruct the occluded blue sky with clouds and sunlit green grassy rolling hills. Preserve exact framing, composition, all edges, top rope, small tiger pen cup on left edge, orange floating object on right, right tree, bottom flowers and umbrella. No new characters or objects. This background plate will be placed back into the same rectangular crop of a portfolio artwork, so edge continuity is essential.
